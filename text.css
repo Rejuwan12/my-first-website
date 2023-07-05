@@ -1,0 +1,25 @@
+.test{
+    color: blue;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border: solid gray;
+    height: 500px;
+}
+.box{
+    padding: 20px;
+    background-color: brown;
+    width: 110px;
+}
+
+.box2{    padding: 20px;
+    background-color: red;
+    width: 110px;
+}
+.box3{    padding: 20px;
+    background-color: blue;
+    width: 110px;
+}

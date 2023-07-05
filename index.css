@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-container{
+    background-color: black;
+}
+.menus{background-color: black;
+color: white;
+display: flex;
+align-items: center ;
+list-style: none;
+text-align: right;}
